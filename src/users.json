@@ -1,0 +1,17 @@
+{
+  "Jacob": {
+    "age": 24,
+    "hair": "brown",
+    "faveVideoGame": "Europa Universalis IV"
+  },
+  "Jeremy": {
+    "age": 28,
+    "hair": "long",
+    "faveVideoGame": "Overwatch"
+  },
+  "Julie": {
+    "age": 29,
+    "hair": "red",
+    "faveVideoGame": "Wario's Woods"
+  }
+}
